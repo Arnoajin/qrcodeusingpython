@@ -5,4 +5,4 @@ So to create QR codes using the Python programming language, you first need to m
 
 pip install PyQRCode
 pip install pypng
-After installing these modules, you can start writing a program to create a QR code using Python, as shown :
+After installing these modules, you can start writing a program to create a QR code using Python, as shown index file:
